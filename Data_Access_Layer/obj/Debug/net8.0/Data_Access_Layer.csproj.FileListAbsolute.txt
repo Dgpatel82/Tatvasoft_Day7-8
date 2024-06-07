@@ -1,0 +1,42 @@
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll

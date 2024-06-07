@@ -1,0 +1,45 @@
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CopyComplete
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\pca242\source\repos\Day6\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CopyComplete
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+C:\Users\pca242\source\repos\Day7\New folder\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business.B10BAD81.Up2Date
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+D:\.NET\CIPlatfromWebAPI_PostgreSQL\CIPlatfromWebAPI_PostgreSQL\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll
